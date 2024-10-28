@@ -1,5 +1,5 @@
 python  
 pandas  
 numpy  
-ms-deisotope  [mobiusklein.github.io/ms_deisotope] 
+ms-deisotope  (Thanks to the repository: mobiusklein.github.io/ms_deisotope) 
 
