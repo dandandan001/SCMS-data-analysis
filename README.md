@@ -1,3 +1,6 @@
+This script is used for single cell mass spectrometry data alignment.  
+MS data obtained from Single-probe.
+
 python  
 pandas  
 numpy  
