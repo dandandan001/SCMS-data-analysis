@@ -1,4 +1,4 @@
-##python
-##pandas
-##numpy
-##ms-deisotope
+python  
+pandas  
+numpy  
+ms-deisotope  
