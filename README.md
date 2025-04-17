@@ -6,4 +6,4 @@ pandas
 numpy  
 ms-deisotope  (Thanks to the repository: mobiusklein.github.io/ms_deisotope) 
 
-PowerAnalysis_PostHOC_Quenching .ipynb: Contribute by Deepti Bhusal,and Shakya Sankalpani Gunasena Wije Munige.
+PowerAnalysis_PostHOC_Quenching.ipynb: Contribute by Deepti Bhusal,and Shakya Sankalpani Gunasena Wije Munige.
