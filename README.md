@@ -1,5 +1,5 @@
 Single-Probe SCMS data alignment: This script is used for single cell mass spectrometry data alignment.  
-MS data obtained from Single-probe.
+MS data obtained from Single-probe.(mass tolerance: 0.01 m/z or 5ppm)
 Libraries:
 python  
 pandas  
